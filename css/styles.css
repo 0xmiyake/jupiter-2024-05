@@ -362,7 +362,7 @@ header {
 
 .concept-text {
   margin: 1.2rem 0;
-  padding: 0 5px;
+  /* padding: 0 5px; */
   text-align: left;
 }
 
