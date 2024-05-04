@@ -369,7 +369,7 @@ header {
 .concept-text-people {
   margin-bottom: 8px;
   width: 340px;
-  /* padding: 0 3px; */
+  padding: 0 3px;
   text-align: left;
   border-bottom: 2px solid var(--fontSubColor); /* 下線のスタイルを指定 */
   /* background-color: aqua; */
