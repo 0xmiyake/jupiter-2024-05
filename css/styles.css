@@ -362,14 +362,14 @@ header {
 
 .concept-text {
   margin: 1.2rem 0;
-  /* padding: 0 5px; */
+  padding: 0 5px;
   text-align: left;
 }
 
 .concept-text-people {
   margin-bottom: 8px;
   width: 340px;
-  padding: 0 5px;
+  /* padding: 0 3px; */
   text-align: left;
   border-bottom: 2px solid var(--fontSubColor); /* 下線のスタイルを指定 */
   /* background-color: aqua; */
