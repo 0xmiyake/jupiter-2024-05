@@ -356,6 +356,10 @@ header {
   /* background-color: aqua; */
 }
 
+.concept-textbox {
+  margin: 0 auto;
+}
+
 .concept-text {
   margin: 1.2rem 0;
   padding: 0 5px;
@@ -364,7 +368,8 @@ header {
 
 .concept-text-people {
   margin-bottom: 8px;
-  width: 340px;
+  width: 338px;
+  padding: 0 5px;
   text-align: left;
   border-bottom: 2px solid var(--fontSubColor); /* 下線のスタイルを指定 */
   /* background-color: aqua; */
