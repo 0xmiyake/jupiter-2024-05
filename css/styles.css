@@ -714,6 +714,7 @@ header {
 .access-info {
   display: flex;
   justify-content: center;
+  color: var(--fontMainColor);
 }
 
 .access-info-image {
@@ -771,9 +772,6 @@ header {
 
 /* ======================waiting-here-start==================== */
 
-.access {
-  /* background-color: pink; */
-}
 
 .waiting-here-container {
   /* background-color: aqua; */
