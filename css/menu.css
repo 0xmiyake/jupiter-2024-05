@@ -119,10 +119,15 @@
 }
 
 
+
 /* ======================poker-end=================================== */
 
 
 @media screen and (max-width:480px) {
+
+    .menu-page {
+        margin-top: 100px;
+    }
 
     .menu-page-contents {
         justify-content: space-between;
