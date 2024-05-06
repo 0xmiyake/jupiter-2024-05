@@ -57,10 +57,10 @@
 /* ======================poker-start=================================== */
 
 .poker-container {
-    padding: 1.2rem 0 ;
+    padding: 1.2rem 0;
     background-image: url(../img/poker-back-image.jpg);
-    /* 画像を常に天地左右の中央に配置 */
-    background-position: center center;
+    /* 画像を左寄せに配置 */
+    background-position: left center;
     
     /* 画像をタイル状に繰り返し表示しない */
     background-repeat: no-repeat;
@@ -70,8 +70,6 @@
     
     /* 表示するコンテナの大きさに基づいて、背景画像を調整 */
     background-size: cover;
-
-
 }
 .poker-contents {
     border: 2px solid var(--fontSubColor);
