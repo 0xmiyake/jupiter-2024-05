@@ -3,6 +3,7 @@
 
 /* ======================menu-attention-start=================================== */
 
+
 .menu-page {
     margin-top: 120px;
     padding-bottom: 2rem;
@@ -55,7 +56,7 @@
 
 /* ======================poker-start=================================== */
 
-.poker-container {
+.poker-containers {
     padding: 1.2rem 0 ;
     background-image: url(../img/poker-back-image.jpg);
     /* 画像を常に天地左右の中央に配置 */
